@@ -1,14 +1,14 @@
 Development in progress. 
 
-# Spotify Playlist Creator
+## Spotify Playlist Creator
 
 An application that uses the Spotify API to create customized workout playlists based on a user's perferred BPM, and their personalized music profiles.
 
-# Installation 
+### Installation 
 
 To be specified once project is complete.
 
-# Usage
+### Usage
 
 To be specified once project is complete.
 
