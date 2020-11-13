@@ -1,1 +1,4 @@
 node_modules/
+implicit_grant/
+authorization_code/
+client_credentials/
